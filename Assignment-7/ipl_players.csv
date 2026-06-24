@@ -1,0 +1,101 @@
+Player_ID,Player_Name,Team,Runs,Wickets,Strike_Rate,Team_Wins
+1,Virat Kohli,Delhi Capitals,82,1,112.96,6
+2,Rohit Sharma,Kolkata Knight Riders,567,1,152.71,8
+3,MS Dhoni,Lucknow Super Giants,479,14,143.18,6
+4,KL Rahul,Rajasthan Royals,878,0,169.5,8
+5,Shubman Gill,Royal Challengers Bengaluru,764,27,133.92,9
+6,Hardik Pandya,Royal Challengers Bengaluru,270,21,113.69,9
+7,Jasprit Bumrah,Delhi Capitals,149,22,177.04,6
+8,Ravindra Jadeja,Gujarat Titans,320,2,167.03,14
+9,Ruturaj Gaikwad,Lucknow Super Giants,177,24,111.7,6
+10,Suryakumar Yadav,Rajasthan Royals,899,23,154.07,8
+11,Yashasvi Jaiswal,Mumbai Indians,96,14,170.71,5
+12,Rinku Singh,Mumbai Indians,288,6,137.31,5
+13,Sanju Samson,Punjab Kings,700,23,118.83,13
+14,Jos Buttler,Sunrisers Hyderabad,264,17,164.65,7
+15,Faf du Plessis,Mumbai Indians,673,10,150.4,5
+16,Glenn Maxwell,Kolkata Knight Riders,217,29,137.25,8
+17,Andre Russell,Lucknow Super Giants,274,20,176.64,6
+18,Sunil Narine,Chennai Super Kings,284,2,173.43,6
+19,Pat Cummins,Delhi Capitals,324,4,122.93,6
+20,Travis Head,Gujarat Titans,785,20,123.07,14
+21,Abhishek Sharma,Punjab Kings,455,29,117.14,13
+22,Mohammed Siraj,Royal Challengers Bengaluru,302,35,150.81,9
+23,Arshdeep Singh,Gujarat Titans,488,25,135.77,14
+24,Yuzvendra Chahal,Royal Challengers Bengaluru,571,31,112.73,9
+25,Kuldeep Yadav,Chennai Super Kings,162,9,158.33,6
+26,Axar Patel,Delhi Capitals,660,4,137.71,6
+27,Rashid Khan,Gujarat Titans,529,33,126.37,14
+28,David Miller,Lucknow Super Giants,61,7,162.95,6
+29,Sai Sudharsan,Lucknow Super Giants,818,17,170.33,6
+30,Nicholas Pooran,Sunrisers Hyderabad,164,18,141.96,7
+31,Marcus Stoinis,Punjab Kings,53,16,187.61,13
+32,Aiden Markram,Royal Challengers Bengaluru,569,6,178.99,9
+33,Rahul Tripathi,Rajasthan Royals,704,32,156.76,8
+34,Ishan Kishan,Royal Challengers Bengaluru,432,10,150.85,9
+35,Tilak Varma,Lucknow Super Giants,50,20,146.53,6
+36,Shivam Dube,Mumbai Indians,421,19,125.35,5
+37,Devon Conway,Kolkata Knight Riders,630,5,112.28,8
+38,Matheesha Pathirana,Punjab Kings,885,4,188.13,13
+39,Deepak Chahar,Lucknow Super Giants,834,8,115.91,6
+40,Prasidh Krishna,Punjab Kings,612,10,127.53,13
+41,Harshal Patel,Gujarat Titans,483,13,183.96,14
+42,Mohit Sharma,Kolkata Knight Riders,780,19,138.91,8
+43,Mohsin Khan,Sunrisers Hyderabad,498,33,143.38,7
+44,Mayank Yadav,Kolkata Knight Riders,280,4,133.74,8
+45,Washington Sundar,Gujarat Titans,617,14,155.02,14
+46,Rahul Tewatia,Chennai Super Kings,122,3,124.46,6
+47,Nitish Rana,Chennai Super Kings,388,4,148.7,6
+48,Varun Chakravarthy,Rajasthan Royals,735,31,123.21,8
+49,Venkatesh Iyer,Royal Challengers Bengaluru,790,30,125.65,9
+50,Phil Salt,Punjab Kings,876,26,121.18,13
+51,Quinton de Kock,Mumbai Indians,724,27,135.12,5
+52,Mitchell Starc,Delhi Capitals,528,3,162.24,6
+53,Tim David,Mumbai Indians,112,25,166.9,5
+54,Krunal Pandya,Mumbai Indians,304,12,121.17,5
+55,Karn Sharma,Punjab Kings,193,27,120.6,13
+56,R Sai Kishore,Punjab Kings,305,4,142.67,13
+57,Noor Ahmad,Lucknow Super Giants,150,3,160.43,6
+58,Bhuvneshwar Kumar,Lucknow Super Giants,65,5,183.74,6
+59,T Natarajan,Kolkata Knight Riders,220,26,146.28,8
+60,Mukesh Kumar,Kolkata Knight Riders,460,3,118.99,8
+61,Khaleel Ahmed,Chennai Super Kings,449,16,183.75,6
+62,Riyan Parag,Punjab Kings,342,27,164.21,13
+63,Dhruv Jurel,Lucknow Super Giants,727,31,118.16,6
+64,Shimron Hetmyer,Rajasthan Royals,272,3,154.23,8
+65,Liam Livingstone,Lucknow Super Giants,112,20,109.86,6
+66,Jonny Bairstow,Gujarat Titans,538,32,183.15,14
+67,Sam Curran,Lucknow Super Giants,211,3,186.67,6
+68,Jitesh Sharma,Mumbai Indians,240,4,155.58,5
+69,Shikhar Dhawan,Kolkata Knight Riders,463,7,185.04,8
+70,Prabhsimran Singh,Gujarat Titans,302,2,157.65,14
+71,Anrich Nortje,Delhi Capitals,723,33,131.89,6
+72,Trent Boult,Rajasthan Royals,259,20,125.29,8
+73,Lockie Ferguson,Delhi Capitals,184,19,143.86,6
+74,Gerald Coetzee,Mumbai Indians,59,29,157.8,5
+75,Reece Topley,Gujarat Titans,152,4,150.7,14
+76,Dinesh Karthik,Lucknow Super Giants,321,8,184.33,6
+77,Cameron Green,Mumbai Indians,300,23,129.22,5
+78,Will Jacks,Punjab Kings,606,19,156.99,13
+79,Tom Kohler-Cadmore,Lucknow Super Giants,58,35,130.45,6
+80,Jake Fraser-McGurk,Mumbai Indians,187,16,114.81,5
+81,Jake Weatherald,Mumbai Indians,810,35,118.21,5
+82,Ben Stokes,Rajasthan Royals,669,13,166.0,8
+83,Moeen Ali,Kolkata Knight Riders,753,16,147.96,8
+84,Chris Jordan,Rajasthan Royals,102,5,158.91,8
+85,Keshav Maharaj,Rajasthan Royals,95,0,133.35,8
+86,Adam Zampa,Royal Challengers Bengaluru,702,16,118.73,9
+87,Jason Holder,Punjab Kings,614,27,152.68,13
+88,Kane Williamson,Mumbai Indians,127,9,151.38,5
+89,Devdutt Padikkal,Sunrisers Hyderabad,646,35,117.59,7
+90,Manish Pandey,Royal Challengers Bengaluru,92,19,136.0,9
+91,Mayank Agarwal,Chennai Super Kings,416,13,162.98,6
+92,Harpreet Brar,Mumbai Indians,412,35,180.15,5
+93,Avesh Khan,Delhi Capitals,685,9,183.69,6
+94,Navdeep Saini,Kolkata Knight Riders,216,11,179.92,8
+95,Sandeep Sharma,Chennai Super Kings,233,21,171.5,6
+96,Shahbaz Ahmed,Delhi Capitals,871,15,127.68,6
+97,Naveen-ul-Haq,Mumbai Indians,441,2,177.98,5
+98,Ayush Badoni,Kolkata Knight Riders,254,29,134.72,8
+99,Robin Minz,Kolkata Knight Riders,278,1,161.1,8
+100,Nehal Wadhera,Delhi Capitals,386,17,178.47,6
