@@ -1,0 +1,122 @@
+[
+    {
+        "match": "India vs England",
+        "venue": "London",
+        "condition": "Away",
+        "runs": 90,
+        "balls": 62,
+        "dismissal": "Caught"
+    },
+    {
+        "match": "India vs Australia",
+        "venue": "Mumbai",
+        "condition": "Home",
+        "runs": 74,
+        "balls": 50,
+        "dismissal": "Bowled"
+    },
+    {
+        "match": "India vs South Africa",
+        "venue": "Bengaluru",
+        "condition": "Home",
+        "runs": 117,
+        "balls": 80,
+        "dismissal": "Not Out"
+    },
+    {
+        "match": "India vs New Zealand",
+        "venue": "Wellington",
+        "condition": "Away",
+        "runs": 45,
+        "balls": 38,
+        "dismissal": "Caught"
+    },
+    {
+        "match": "India vs Sri Lanka",
+        "venue": "Chennai",
+        "condition": "Home",
+        "runs": 82,
+        "balls": 60,
+        "dismissal": "LBW"
+    },
+    {
+        "match": "India vs Pakistan",
+        "venue": "Dubai",
+        "condition": "Away",
+        "runs": 65,
+        "balls": 54,
+        "dismissal": "Caught"
+    },
+    {
+        "match": "India vs West Indies",
+        "venue": "Vadodara",
+        "condition": "Home",
+        "runs": 102,
+        "balls": 89,
+        "dismissal": "Not Out"
+    },
+    {
+        "match": "India vs Bangladesh",
+        "venue": "Dhaka",
+        "condition": "Away",
+        "runs": 59,
+        "balls": 47,
+        "dismissal": "Run Out"
+    },
+    {
+        "match": "India vs Ireland",
+        "venue": "Dublin",
+        "condition": "Away",
+        "runs": 71,
+        "balls": 58,
+        "dismissal": "Caught"
+    },
+    {
+        "match": "India vs Zimbabwe",
+        "venue": "Harare",
+        "condition": "Away",
+        "runs": 88,
+        "balls": 70,
+        "dismissal": "Bowled"
+    },
+    {
+        "match": "India vs England",
+        "venue": "Delhi",
+        "condition": "Home",
+        "runs": 110,
+        "balls": 93,
+        "dismissal": "Caught"
+    },
+    {
+        "match": "India vs Australia",
+        "venue": "Sydney",
+        "condition": "Away",
+        "runs": 53,
+        "balls": 44,
+        "dismissal": "LBW"
+    },
+    {
+        "match": "India vs South Africa",
+        "venue": "Cape Town",
+        "condition": "Away",
+        "runs": 94,
+        "balls": 75,
+        "dismissal": "Caught"
+    },
+    {
+        "match": "India vs New Zealand",
+        "venue": "Ahmedabad",
+        "condition": "Home",
+        "runs": 128,
+        "balls": 97,
+        "dismissal": "Not Out"
+    },
+    {
+        "match": "India vs Sri Lanka",
+        "venue": "Colombo",
+        "condition": "Away",
+        "runs": 77,
+        "balls": 61,
+        "dismissal": "Bowled"
+    }
+]
