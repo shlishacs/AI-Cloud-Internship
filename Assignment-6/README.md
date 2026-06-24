@@ -1,3 +1,8 @@
+# Cricket Stats Calculator
+
+## Description
+This project analyzes Smriti Mandhana's cricket performance using JSON data.
+
 ## Features
 - Calculates Strike Rate
 - Calculates Batting Average
